@@ -38,3 +38,9 @@ body {
   text-decoration: none;
   color: #7befb2;
 }
+
+.projects {
+  margin-top: 300px;
+  /* max-width: 75%; */
+  color: #ffffff;
+}
