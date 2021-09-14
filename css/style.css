@@ -1,0 +1,40 @@
+body {
+  background-color: #232a36;
+}
+
+.top-page {
+  margin-top: 20px;
+}
+.header {
+  color: #7befb2;
+  font-size: 30px;
+}
+
+.profile {
+  height: 400px;
+  width: 400px;
+  margin-top: 70px;
+}
+
+.profile-name {
+  margin-top: 350px;
+  font-size: 50px;
+}
+
+.main-name {
+  font-size: 50px;
+}
+
+.about-me {
+  margin-top: 70px;
+  background-color: #232a36;
+}
+
+.about-descript {
+  color: #ffffff;
+}
+
+.about-descript a {
+  text-decoration: none;
+  color: #7befb2;
+}
