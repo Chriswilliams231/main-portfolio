@@ -39,8 +39,29 @@ body {
   color: #7befb2;
 }
 
-.projects {
+.projects-title {
+  color: #ffffff;
   margin-top: 300px;
+  text-align: center;
+}
+
+.projects {
+  margin-top: 100px;
   /* max-width: 75%; */
   color: #ffffff;
+}
+
+.project-btn {
+  background-color: #7befb2;
+  width: 200px;
+  color: #232a36;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.project-btn2 {
+  background-color: #7befb2;
+  width: 150px;
+  margin-left: 50px;
+  border-radius: 10px;
+  font-size: 20px;
 }
